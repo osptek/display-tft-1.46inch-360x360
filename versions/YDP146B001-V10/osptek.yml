@@ -1,0 +1,10 @@
+id: YDP146B001-V10
+category: displays
+size: "1.46"
+panel: tft
+resolution: 360x360
+interface: [qspi]
+driver: ST77916
+touch: null
+outline: 39.30 x 40.96 x 1.56 mm
+active_area: 36.93 x 36.93 mm
